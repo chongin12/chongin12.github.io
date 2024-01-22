@@ -331,6 +331,7 @@ tbody tr:nth-child(odd) th {
 .page,
 .post {
   margin-bottom: 4em;
+  word-wrap: break-word;
 }
 
 /* Blog post or page title */
