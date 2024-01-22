@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      Rouge
 
 # Permalinks
-permalink:        pretty
+permalink: /:categories/:title/
 relative_permalinks: false
 
 # Setup
@@ -31,3 +31,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-seo-tag
+
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+excerpt_separator: "\n\n"

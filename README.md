@@ -3,6 +3,8 @@ aka [mosu.blog](https://mosu.blog)
 
 # 카테고리 목록
 - WWDC
+    - WWDC19
+    - WWDC20
     - WWDC21
 
 # Makefile 사용법
