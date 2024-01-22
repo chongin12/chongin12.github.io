@@ -10,8 +10,8 @@ relative_permalinks: false
 title:            Mosu.blog
 tagline:          ''
 description:      ''
-url:              https://mosu.blog
-baseurl:          /
+url:              "https://mosu.blog"
+baseurl:          ""
 
 author:
   name:           'mosu'
