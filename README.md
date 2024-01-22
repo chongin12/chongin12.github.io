@@ -1,10 +1,14 @@
 # chongin.github.io
 aka [mosu.blog](https://mosu.blog)
 
+# 카테고리 목록
+- WWDC
+    - WWDC21
+
 # Makefile 사용법
 terminal에 다음과 같이 입력 : 
 ```shell
-$ make post "테스트1"
+$ make post title="테스트1"
 ```
 그렇다면, _posts 폴더에 마크다운 파일이 생성.\
 파일 이름 예시 : `2024-01-22-테스트1.md`\
@@ -12,7 +16,7 @@ $ make post "테스트1"
 ```
 ---
 layout: post
-title:  "테스트1!"
+title:  "테스트1"
 date:   2024-01-22 22:17:06 +0900
 categories:
 ---
