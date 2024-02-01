@@ -2,7 +2,7 @@
 layout: post
 title:  "WWDC23: Principles of Spatial Design"
 date:   2024-01-29 16:54:24 +0900
-categories:
+categories: WWDC/WWDC23
 ---
 # Spatial Operating System
 공간 컴퓨팅으로 매우 다양한 경험을 선사할 수 있다.
