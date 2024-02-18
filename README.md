@@ -27,6 +27,8 @@ categories:
 # Image Paste 사용법
 vscode extension `Paste Image` 설치 후 확장 설정에 다음을 적용
 ```json
-"pasteImage.path": "${currentFileDir}/images"
+"pasteImage.basePath": "${projectRoot}",
+"pasteImage.path": "${projectRoot}/images",
+"pasteImage.prefix": "/"
 ```
 이후 스크린샷 등 사진을 vscode 마크다운 에디터에 `Cmd+Option+V` 하면 images 폴더 안에 사진이 생성되며, 바로 import 된다.
