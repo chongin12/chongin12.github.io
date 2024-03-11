@@ -2,7 +2,7 @@
 layout: post
 title:  "Apple Developer Academy @ POSTECH 1주차 회고"
 date:   2024-03-11 08:53:02 +0900
-categories: Apple Developer Academy @ POSTECH/회고
+categories: retrospect
 ---
 
 # 기간
