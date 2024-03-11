@@ -32,3 +32,10 @@ vscode extension `Paste Image` 설치 후 확장 설정에 다음을 적용
 "pasteImage.prefix": "/"
 ```
 이후 스크린샷 등 사진을 vscode 마크다운 에디터에 `Cmd+Option+V` 하면 images 폴더 안에 사진이 생성되며, 바로 import 된다.
+
+# Local Test
+`bundle install` 명령어로 gem 의존성 설치
+
+`bundle exec jekyll serve` 명령어로 로컬 실행
+
+`Server address: http://127.0.0.1:4000` 행을 확인하고 해당 주소 실행.

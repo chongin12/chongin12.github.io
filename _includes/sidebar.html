@@ -2,7 +2,7 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
-        <a href="https://mosu.blog">
+        <a href="{{ site.url }}">
           {{ site.title }}
         </a>
       </h1>
@@ -13,7 +13,7 @@
       <a href="https://github.com/chongin12/chongin12.github.io" target="_blank">
         <img src="/public/Mosu_blog_dark.png" alt="">
       </a>
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.url }}">Home</a>
+      <a class="sidebar-nav-item{% if page.url == site.url %} active{% endif %}" href="{{ site.url }}">Home</a>
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
