@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Apple Developer Academy @ POSTECH 25주차 회고"
+title:  "Apple Developer Academy @ POSTECH 26주차 회고"
 date:   2024-09-01 10:20:02 +0900
 categories: retrospect
 ---
